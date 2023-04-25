@@ -1,2 +1,3 @@
-# Computer-Vision
-Computer Vision Projects
+# Computer Vision Projects
+## 1. Similar Image Search
+
